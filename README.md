@@ -1,7 +1,7 @@
 # Society-Management
 <b>Introduction -</b>
 
-Hii all, my name is Shriyash Thakare, As our PG Project we have selected topic of "Society Management System".
+Hii all, my name is Nikita Mudaliar, As our PG Project we have selected topic of "Society Management System".
 
 <b>Project Objective -</b>
 
